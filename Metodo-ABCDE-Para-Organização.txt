@@ -1,0 +1,7 @@
+Método de Organização para projetos
+
+A - Assets (recursos: Imagens, Vídeos, gifs, paletas cores)
+B - Bases (dados para gerar a dashboard principal ou outras medidas)
+C - Calculos (meio de campo que processa dados para transformar em informações)
+D - Dashboard (Painel visual)
+E - Extras (Ex: Estudos, Materiais complementares e Etc.)
