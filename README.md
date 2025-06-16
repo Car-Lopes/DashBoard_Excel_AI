@@ -5,7 +5,7 @@ Criação de dashboard com excel aonde mostra os valores de vendas do ano de det
 
 Usamos nessa dashboard grafico, Formulas, Tabelas dimanicas, Formato de Formas para desenhar os KPI para metricas de resultados e alem de toda base de dados escondidas em abas.
 
-Para utilização baixar o arquivo.
+Para utilização baixar o arquivo Dashboard.xlsx.
 
 ## Suporte
 
